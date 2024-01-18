@@ -21,7 +21,7 @@ AWS
 *Little experience with
 Python
 R
--Took data analytics classes in college and still have a strong understanding of these topics just need to return and relearn some of these topics. 
+I took data analytics classes in college and still have a strong understanding of these topics just need to return and relearn some of these topics. 
 
 
 I also have an art page that I continuously update as I'm really into art. 
