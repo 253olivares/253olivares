@@ -1,4 +1,4 @@
-### Hi there 👋, Miguel Olivares
+### Miguel Olivares
 #### I am a Entry Web Developer
 ![I am a Entry Web Developer](https://media.licdn.com/dms/image/C4E16AQHytvmQ7pt03g/profile-displaybackgroundimage-shrink_350_1400/0/1606521806794?e=1710979200&v=beta&t=PjVzIwsnqRweVAJ0LRdUlu-eJqcrOk6kPdLG_h0STRw)
 
