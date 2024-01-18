@@ -16,10 +16,7 @@ You can find it here: https://www.instagram.com/carne_asada_69/
 
 You can find my email to reach out to me on my GitHub or LinkedIn profile.
 
-Skills: HTML / CSS / JS / REACTJS / VUEJS / PHP / SQL / MONGODB /
-
-- 🔭 I’m currently working on this page. 
-
+Skills: HTML / CSS / JS / REACTJS / VUEJS / PHP / SQL / MONGODB 
 
 
 
