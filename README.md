@@ -12,7 +12,7 @@ Currently studying Vue, React, AWS (not code but I think this web important skil
 
 I also have an art page that I continuously update with my drawings as I'm really into art.
 
-You can find it here: https://www.instagram.com/carne_asada_69/
+You can find it here: https://www.instagram.com/carne_asada_wf/
 
 You can find my email to reach out to me on my GitHub or LinkedIn profile.
 
