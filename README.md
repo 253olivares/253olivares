@@ -25,4 +25,4 @@ Skills: HTML / CSS / JS / ReactJS / VueJS / PHP / SQL / MongoDB
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/253olivares)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/253olivares//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/https://www.instagram.com/carne_asada_69//)  
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=253olivares)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=253olivares&layout=compact)
