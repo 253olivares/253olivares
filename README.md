@@ -5,11 +5,13 @@
 Hello, my name is Miguel Olivares I am a web developer currently trying to land an entry position. You can learn more about me on my LinkedIn here: https://www.linkedin.com/in/253olivares/
 
 Some programming languages and frameworks I am familiar with are provided below: 
+
 [![My Skills](https://skillicons.dev/icons?i=html,js,jquery,nodejs,ts,css,sass,vue,react,tailwind,redux,php,mysql,mongodb)](https://skillicons.dev)
 
 Currently studying Vue, React, Typescript, Nextjs, AWS (Note for AWS: not code but I think this web important skill/knowledge) 
 
 Software and services I am familiar with:
+
 [![My Skills](https://skillicons.dev/icons?i=firebase,git,figma,github,ai,ps,postman,vscode)](https://skillicons.dev)
 
 *Little experience with Python and R I took data analytics classes in college and still have a strong understanding of these topics just need to return and relearn some of these topics.
