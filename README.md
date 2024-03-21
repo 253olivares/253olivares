@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Miguel Olivares
 #### I am a Web Developer & Artist
-![I am a Web Developer](https://media.licdn.com/dms/image/C4E16AQHytvmQ7pt03g/profile-displaybackgroundimage-shrink_350_1400/0/1606521806794?e=1710979200&v=beta&t=PjVzIwsnqRweVAJ0LRdUlu-eJqcrOk6kPdLG_h0STRw)
+![I am a Web Developer](https://media.licdn.com/dms/image/C4E16AQHytvmQ7pt03g/profile-displaybackgroundimage-shrink_350_1400/0/1606521806794?e=1716422400&v=beta&t=zwfmQabinHr_JJJp4wK8PCK89ub1fL84VfS1jbRoTIw)
 
 Hello, my name is Miguel Olivares I am a web developer currently trying to land an entry position. You can learn more about me on my LinkedIn here: https://www.linkedin.com/in/253olivares/
 
