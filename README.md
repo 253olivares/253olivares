@@ -1,12 +1,13 @@
 ### Hi there 👋, my name is Miguel Olivares
 #### I am a Web Developer & Artist
-![I am a Web Developer]([https://media.licdn.com/dms/image/C4E16AQHytvmQ7pt03g/profile-displaybackgroundimage-shrink_350_1400/0/1606521806794?e=1722470400&v=beta&t=xtaOjIsyI7df0As52s-MwBPXXr6TW_VVjyL9LDn9OsE])
+
+[![](https://media.licdn.com/dms/image/C4E16AQHytvmQ7pt03g/profile-displaybackgroundimage-shrink_350_1400/0/1606521806794?e=1722470400&v=beta&t=xtaOjIsyI7df0As52s-MwBPXXr6TW_VVjyL9LDn9OsE)](https://www.linkedin.com/in/253olivares/)
 
 Hello, my name is Miguel Olivares I am a web developer currently trying to land an entry position. You can learn more about me on my LinkedIn here: https://www.linkedin.com/in/253olivares/
 
 Some programming languages and frameworks I am familiar with are provided below: 
 
-[![My Skills](https://skillicons.dev/icons?i=html,js,jquery,nodejs,ts,css,sass,vue,react,tailwind,redux,php,mysql,mongodb)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,js,jquery,nodejs,ts,css,sass,vue,react,tailwind,redux,php,mysql,java)](https://skillicons.dev)
 
 Currently studying Vue, React, Typescript, Nextjs, AWS (Note for AWS: not code but I think this web important skill/knowledge) 
 
@@ -22,8 +23,7 @@ You can find it here: https://www.instagram.com/carne_asada_wf/
 
 You can find my email to reach out to me on my GitHub or LinkedIn profile.
 
-- 🔭 I’m currently working on React Portfolio 
-- 🌱 I’m currently learning ReactJS / VueJS / AWS 
+- 🌱 I’m currently learning Java
 - 📫 How to reach me: olivarezmig@gmail.com 
 
 
