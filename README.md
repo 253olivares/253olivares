@@ -7,7 +7,7 @@ Hello, my name is Miguel Olivares I am a web developer currently trying to land 
 
 Some programming languages and frameworks I am familiar with are provided below: 
 
-[![My Skills](https://skillicons.dev/icons?i=html,js,jquery,nodejs,ts,css,sass,react,tailwind,redux,php,mysql,java)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,js,jquery,nodejs,ts,css,sass,react,nextjs,tailwind,redux,php,mysql,java)](https://skillicons.dev)
 
 Currently studying Vue, React, Typescript, Nextjs, AWS (Note for AWS: not code but I think this web important skill/knowledge) 
 
